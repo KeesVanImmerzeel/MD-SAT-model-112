@@ -1,0 +1,24 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 1           UITVOERTIJDSTIPPEN (d)
+1          
+5             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             RP1: Nuttige neerslag (m/d). Overweeg evt. deze te verminderen met de greppel-afvoer.
+0 0.001
+0             table 1: table-type 0 (no interpolation)
+1             RP2 (QRCH): De voeding van het watervoerend pakket (m/d)
+0 -0.005
+0             table 2: table-type 0 (no interpolation)
+1             RP3: Anisotropie ky/dx in het topsysteem (-). ky/kx < 1.
+0 0.033
+0             table 3: table-type 0 (no interpolation)
+1             RP5: Slootafstand (m).
+0 50
+0             table 4: table-type 0 (no interpolation)
+1             RP4 (Dcrit): Kritische dikte van de neerslaglens (m).
+0 0.4
+
+
+
